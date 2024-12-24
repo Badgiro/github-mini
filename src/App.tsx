@@ -1,8 +1,8 @@
 import React from "react";
 
 import { Route, Routes } from "react-router-dom";
-import HomePage from "./pages/HomePage.tsx";
-import FavoritesPage from "./pages/FavoritesPage.tsx";
+import HomePage from "./pages/HomePage";
+import FavoritesPage from "./pages/FavoritesPage";
 import Navigation from "./components/navigation";
 
 const App = () => {
